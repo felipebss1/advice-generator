@@ -59,3 +59,5 @@ I'll continue improving my skills with Vue and APIs, there are a lot of challeng
 ## Author
 
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/felipebss1)
+
+##Notes: For an unknown reason, it looks like it works better with Google Chrome.
